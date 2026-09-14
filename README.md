@@ -249,4 +249,4 @@ This repository serves as the official landing page for Magix Video deluxe. The 
 **Get the most recent version of Magix Video deluxe today!**
 
 ---
-**Last updated:** 2026-09-13 22:51:01 UTC
+**Last updated:** 2026-09-14 00:42:05 UTC
